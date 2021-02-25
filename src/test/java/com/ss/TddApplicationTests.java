@@ -14,7 +14,7 @@ import com.ss.shared.Utils;
 
 @DisplayName(value = "All test cases of Utils")
 @SpringBootTest
-class JunitTddApplicationTests {
+class TddApplicationTests {
 
 	@BeforeAll
 	public static void setUp() {
